@@ -1,4 +1,5 @@
-#Version 1.3 last updated 19-Jul-18
+#Version 1.3 last updated 25-Jul-18
+#https://github.com/RickyZiegahn/Oven-Temperature-Controller
 
 import serial
 import time
