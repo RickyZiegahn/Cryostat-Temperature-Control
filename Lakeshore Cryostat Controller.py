@@ -1,5 +1,8 @@
-#Version 1.3 last updated 25-Jul-18
-#https://github.com/RickyZiegahn/Oven-Temperature-Controller
+'''
+Version 1.3 last updated 25-Jul-18
+https://github.com/RickyZiegahn/Oven-Temperature-Controller
+Made for McGill University under D.H. Ryan
+'''
 
 import serial
 import time
