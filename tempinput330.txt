@@ -1,4 +1,0 @@
-Target Temperature in Kelvin (do not include units):
-+000.00
-Heater Range #1 (0-5). (0 is off. 1 is 2.5mW. 2 is 25mW. 3 is 250mW. 4 is 2.5W. 5 is 25W.):
-0
